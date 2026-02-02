@@ -2,13 +2,13 @@
 layout: default
 title: Dong Kyu Shin
 
-<img src="/assets/images/profile.png" alt="Dong Kyu Shin" width="220" style="border-radius: 50%;">
+<img src="/assets/profile.png" alt="Dong Kyu Shin" width="220" style="border-radius: 50%;">
 
 ---
 
 # Dong Kyu Shin
 I am an undergraduate researcher at **Seoul National University**, majoring in **Mechanical Engineering** with an **Interdisciplinary Major in Artificial Intelligence**.  
-My research interests include sequential decision-making, reinforcement learning, and robot manipulation. I am currently working on human–robot interaction and human-to-robot knowledge transfer for long-horizon tasks.
+My research interests include sequential decision-making, reinforcement learning, and robot manipulation. I am currently working on human–robot interaction and robot learning from human data.
 
 ---
 
@@ -102,7 +102,7 @@ Data Science & Reinforcement Learning, Large Language Models and Reinforcement L
 
 **Saxophone**  
 
-<img src="/assets/images/saxophone.png" alt="Playing saxophone" width="400">
+<img src="/assets/saxophone.png" alt="Playing saxophone" width="400">
 
 [Some Performances](https://www.youtube.com/watch?v=UTBj_NCl4YA&list=RDUTBj_NCl4YA&start_radio=1)
 
