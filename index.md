@@ -4,8 +4,6 @@ title: Dong Kyu Shin
 ---
 
 <div class="header-section">
-  <img src="/assets/profile.png" alt="Dong Kyu Shin" class="profile-img">
-  
   <div class="header-content">
     <h1>Dong Kyu Shin</h1>
     <p class="subtitle">Undergraduate Researcher | Seoul National University</p>
@@ -107,11 +105,7 @@ Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweo
 **RC-Car Autonomous Racing Challenge**
 - Developed modified PPO-based reinforcement learning for autonomous racing on unknown tracks
 - Technologies: Python, ROS2, MuJoCo
-
-**Goal-Conditioned Reinforcement Learning with Language**
-- Investigated language instructions as goal generators for GCRL
-- Implemented SAC-based methods
-- Technologies: Python, MuJoCo
+- [[LINK]](https://www.youtube.com/watch?v=zlIGfZmXp-g)
 
 ---
 
