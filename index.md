@@ -68,19 +68,22 @@ I am an undergraduate researcher at Seoul National University, majoring in Mecha
 
 ## Research & Professional Experience
 
-**Research Intern** | KAIST RISELab (Prof. Kimin Lee)  
-*August 2025 – Present*
+**Research Intern** | KAIST RISELab  
+*August 2025 – Present*  
+Advisor: Prof. Kimin Lee
 - Conducting research on **Human-to-Robot Transfer** and **Human–Robot Interaction**
 - Focusing on learning from human demonstrations
 - Investigating how human observations can enhance robot learning capabilities
 
-**Undergraduate Thesis** | SNU Robotics Laboratory (Prof. Frank Chongwoo Park)  
-*August 2024 – June 2025*
+**Undergraduate Thesis** | SNU Robotics Laboratory  
+*August 2024 – June 2025*  
+Advisor: Prof. Frank Chongwoo Park
 - Developed **SE(3)-equivariant grasp pose generation** methods
 - Applied **rectified flow models** to 6-DoF grasp sampling
 
-**Undergraduate Research Program** | SNU Robotics Laboratory (Prof. Frank Chongwoo Park)  
-*June 2023 – October 2023*
+**Undergraduate Research Program** | SNU Robotics Laboratory  
+*June 2023 – October 2023*  
+Advisor: Prof. Frank Chongwoo Park
 - Studied anomaly detection algorithms
 - Implemented **hyperspherical embedding with ViT backbone**, achieving SOTA-comparable performance
 
@@ -93,8 +96,9 @@ I am an undergraduate researcher at Seoul National University, majoring in Mecha
 ## Publications
 
 **Value Gradient Sampler: Learning Invariant Value Functions for Equivariant Diffusion Sampling**  
-Himchan Hwang, Hyeokju Jeong, **Dong Kyu Shin**, Che-Sang Park, Sehee Kweon, Sangwoong Yoon, Frank Chongwoo Park  
-*AISTATS 2026*
+Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweon, Sangwoong Yoon†, Frank Chongwoo Park†  
+*AISTATS 2026*  
+(\* equal contribution, † co-corresponding authors)
 
 ---
 
