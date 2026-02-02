@@ -1,4 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 /* Custom Styles for Academic Website */
+
+/* Single Column Layout Override */
+.wrapper {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+section {
+  width: 100%;
+  float: none;
+  padding: 0;
+}
 
 /* Header Section */
 .header-section {
