@@ -1,71 +1,108 @@
 ---
 layout: default
-title: Shin Dong Kyu
+title: Dong Kyu Shin
 ---
 
-# Shin Dong Kyu
+# Dong Kyu Shin
 
-Welcome to my website! I am an undergraduate student at Seoul National University majoring in Mechanical Engineering and Artificial Intelligence. My research interests include representation learning in reinforcement learning and robotics.
+I am an undergraduate researcher at **Seoul National University**, majoring in **Mechanical Engineering** with an **Interdisciplinary Major in Artificial Intelligence**.  
+My research interests include sequential decision-making, reinforcement learning, and robot manipulation. I am currently working on human–robot interaction and human-to-robot knowledge transfer for long-horizon tasks.
+
+---
+
+## Research Interests
+
+- Reinforcement Learning & Sequential Decision Making  
+- Robotics
+- Human–Robot Interaction and Human-to-Robot Transfer  
+
+---
 
 ## Education
 
-- **Shanghai Community International School**  
-  May 2016 – May 2018
+**Seoul National University (SNU)**  
+*March 2019 – Present*  
+B.S. in Mechanical Engineering  
+B.S. in Interdisciplinary Major in Artificial Intelligence  
+- GPA: **4.0 / 4.3**
 
-- **Seoul National University**  
-  March 2019 – Present  
-  B.S. in Mechanical Engineering  
-  B.S. in Interdisciplinary Major of Artificial Intelligence
+**Shanghai Community International School**  
+*May 2016 – May 2018*
 
-## Experiences
+---
 
-- **Mandatory Military Service**  
-  February 2021 – July 2022  
-  Discharged as an Army Sergeant (Ammunition Management)
+## Research & Professional Experience
 
-- **SNU Robotics Laboratory (Prof. Jong Woo Park)**  
-  June 2023 – October 2023  
-  Undergraduate Research Program – Investigated Anomaly Detection
+**KAIST RISELab (Prof. Kimin Lee)**  
+*Research Intern | August 2025 – Present*  
+- Research on **Human-to-Robot Transfer** and **Human–Robot Interaction**
+- Focus on learning from human feedback and demonstrations
 
-- **Robot Learning Laboratory (Prof. Seong Hwai Oh)**  
-  January 2024 – Present  
-  Undergraduate Internship Program – Investigated Milestone Prediction via Diffusion Policy
+**SNU Robotics Laboratory (Prof. Frank Chongwoo Park)**  
+*Undergraduate Thesis | August 2024 – June 2025*  
+- Research on **SE(3)-equivariant grasp pose generation**
+- Applied **rectified flow models** to 6-DoF grasp sampling
 
-- **IB SATUS Academy**  
-  June 2024 – Present  
-  Worked as an International Baccalaureate mathematics instructor
+**SNU Robotics Laboratory (Prof. Frank Chongwoo Park)**  
+*Undergraduate Research Program | June 2023 – October 2023*  
+- Studied anomaly detection algorithms
+- Implemented **hyperspherical embedding with ViT backbone**, achieving SOTA-comparable performance
 
-- **SNU Robotics Laboratory (Prof. Jong Woo Park)**  
-  August 2024 – Present  
-  Undergraduate Thesis – Learning Dynamics
+**Mandatory Military Service (Republic of Korea Army)**  
+*February 2021 – July 2022*  
+- Discharged as **Army Sergeant** (Ammunition Management)
 
-## Coursework
+---
 
-**Robotics:** Dynamics, Introduction to Robotics, Introduction to Intelligent Systems, Introduction to Control Systems, Modern Methods for Control Systems, Mechanical System Modeling and Control, Mechatronics
+## Publications
 
-**Mathematics:** Introduction to Probability and Stochastic Processes, Linear Algebra for Electrical Systems, Differential Equations, Mathematical Foundation of Deep Neural Networks, Operations Research 1
+**Value Gradient Sampler: Learning Invariant Value Functions for Equivariant Diffusion Sampling**  
+*Himchan Hwang, Hyeokju Jeong, **Dong Kyu Shin**, Che-Sang Park, Sehee Kweon, Sangwoong Yoon, Frank Chongwoo Park*  
+**AISTATS 2026**
 
-**Machine Learning:** Machine Learning for Mechanical Engineering, Artificial Intelligence, Deep Learning, Data Science and Reinforcement Learning, Machine Learning Fundamentals and Applications in Electrical and Computer Engineering
-
-**Computer Science:** Introduction to Data Structures, Algorithms, Programming Methodology
-
-## Skills
-
-- **Languages:** Korean, English, Mandarin Chinese
-- **Programming:** Python (PyTorch, OpenGL), MATLAB, C++, ROS2
-
-## Awards and Achievements
-
-- **Science and Engineering Scholarship**  
-  Ministry of Science and ICT  
-  September 2023 – Present
-
-- **Mechatronics Project Contest**  
-  Awarded Bronze Medal by Hyundai Infracore
-
-- **1st Autonomous Driving S/W Development Contest**  
-  Participated in the contest held by the Mechanical Engineering Department of Seoul National University
+---
 
 ## Projects
 
-- [Study Materials](#):contentReference[oaicite:25]{index=25}
+**Aria Glasses Interactive Robot**  
+- Human gaze and gesture-based robot interaction system  
+- Integrated vision, gaze estimation, and language interfaces  
+
+**RC-Car Autonomous Racing Challenge**  
+- Modified PPO-based reinforcement learning for autonomous racing on unknown tracks  
+- Tools: Python, ROS2  
+
+**Goal-Conditioned Reinforcement Learning with Language**  
+- Investigated whether language instructions can generate goals for GCRL  
+- Implemented SAC-based methods  
+- Tools: Python, CALVIN Benchmark  
+
+**Initial Kernel Estimation for Image Deblurring**  
+- Neural-network-based kernel estimation for image deblurring  
+- Tools: Python, MATLAB  
+
+---
+
+## Coursework Highlights
+
+**Robotics & Control**  
+Dynamics, Introduction to Robotics, Intelligent Systems, Control Systems, Modern Control
+
+**Mathematics**  
+Probability & Stochastic Processes, Differential Equations, Mathematical Foundations of Deep Neural Networks
+
+**Machine Learning**  
+Data Science & Reinforcement Learning, Large Language Models and Reinforcement Learning
+
+---
+
+## Skills
+
+- **Programming:** Python (PyTorch, OpenGL), MATLAB, C++, ROS2 (Introductory)
+- **Languages:** Korean (Native), English (Fluent), Mandarin Chinese (Intermediate)
+
+---
+
+## Contact
+
+- Email: dkshin99@snu.ac.kr  
