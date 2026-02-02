@@ -64,10 +64,6 @@ B.S. in Interdisciplinary Major in Artificial Intelligence
 
 ## Projects
 
-**Aria Glasses Interactive Robot**  
-- Human gaze and gesture-based robot interaction system  
-- Integrated vision, gaze estimation, and language interfaces  
-
 **RC-Car Autonomous Racing Challenge**  
 - Modified PPO-based reinforcement learning for autonomous racing on unknown tracks  
 - Tools: Python, ROS2  
@@ -76,11 +72,6 @@ B.S. in Interdisciplinary Major in Artificial Intelligence
 - Investigated whether language instructions can generate goals for GCRL  
 - Implemented SAC-based methods  
 - Tools: Python, CALVIN Benchmark  
-
-**Initial Kernel Estimation for Image Deblurring**  
-- Neural-network-based kernel estimation for image deblurring  
-- Tools: Python, MATLAB  
-
 ---
 
 ## Coursework Highlights
@@ -99,7 +90,7 @@ Data Science & Reinforcement Learning, Large Language Models and Reinforcement L
 ## Skills
 
 - **Programming:** Python (PyTorch, OpenGL), MATLAB, C++, ROS2 (Introductory)
-- **Languages:** Korean (Native), English (Fluent), Mandarin Chinese (Intermediate)
+- **Languages:** Korean (Native), English (Intermediate), Mandarin Chinese (Conversationary)
 
 ---
 
