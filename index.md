@@ -5,7 +5,8 @@ title: Dong Kyu Shin
 
 ## About Me
 
-I am an undergraduate researcher at Seoul National University, majoring in Mechanical Engineering with an Interdisciplinary Major in Artificial Intelligence. My research focuses on sequential decision-making, reinforcement learning, and robot manipulation. Recently, I am working on human–robot interaction and robot learning from human data.
+I am an undergraduate researcher at Seoul National University, majoring in Mechanical Engineering with an Interdisciplinary Major in Artificial Intelligence. 
+My research focuses on sequential decision-making, reinforcement learning, and robot manipulation. Recently, I am working on human–robot interaction and robot learning from human data.
 
 ---
 
