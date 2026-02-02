@@ -5,6 +5,8 @@ title: Dong Kyu Shin
 
 # Dong Kyu Shin
 
+<img src="/assets/images/profile.jpg" alt="Dong Kyu Shin" width="220" style="border-radius: 50%;">
+
 I am an undergraduate researcher at **Seoul National University**, majoring in **Mechanical Engineering** with an **Interdisciplinary Major in Artificial Intelligence**.  
 My research interests include sequential decision-making, reinforcement learning, and robot manipulation. I am currently working on human–robot interaction and human-to-robot knowledge transfer for long-horizon tasks.
 
@@ -24,7 +26,7 @@ My research interests include sequential decision-making, reinforcement learning
 *March 2019 – Present*  
 B.S. in Mechanical Engineering  
 B.S. in Interdisciplinary Major in Artificial Intelligence  
-- GPA: **4.0 / 4.3**
+- GPA: **3.96 / 4.3**
 
 **Shanghai Community International School**  
 *May 2016 – May 2018*
@@ -72,7 +74,7 @@ B.S. in Interdisciplinary Major in Artificial Intelligence
 **Goal-Conditioned Reinforcement Learning with Language**  
 - Investigated whether language instructions can generate goals for GCRL  
 - Implemented SAC-based methods  
-- Tools: Python, MuJoCo
+- Tools:Python, MuJoCo
 ---
 
 ## Coursework Highlights
@@ -97,6 +99,9 @@ Data Science & Reinforcement Learning, Large Language Models and Reinforcement L
 ## Hobbies
 
 **Saxophone**  
+
+<img src="/assets/images/saxophone.jpg" alt="Playing saxophone" width="400">
+
 🎷 [Listen on YouTube](https://www.youtube.com/watch?v=UTBj_NCl4YA&list=RDUTBj_NCl4YA&start_radio=1)
 
 ## Contact
