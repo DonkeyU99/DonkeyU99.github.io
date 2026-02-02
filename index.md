@@ -70,20 +70,20 @@ I am an undergraduate researcher at Seoul National University, majoring in Mecha
 
 **Research Intern** | KAIST RISELab  
 *August 2025 – Present*  
-Advisor: Prof. Kimin Lee
+Advisor: Kimin Lee
 - Conducting research on **Human-to-Robot Transfer** and **Human–Robot Interaction**
 - Focusing on learning from human demonstrations
 - Investigating how human demonstration can enhance robot learning capabilities
 
 **Undergraduate Thesis** | SNU Robotics Laboratory  
 *August 2024 – June 2025*  
-Advisor: Prof. Frank Chongwoo Park
+Advisor: Frank Chongwoo Park
 - Developed **SE(3)-equivariant grasp pose generation** methods
 - Applied **rectified flow models** to 6-DoF grasp sampling
 
 **Undergraduate Research Program** | SNU Robotics Laboratory  
 *June 2023 – October 2023*  
-Advisor: Prof. Frank Chongwoo Park
+Advisor: Frank Chongwoo Park
 - Studied anomaly detection algorithms
 - Implemented **hyperspherical embedding with ViT backbone**, achieving SOTA-comparable performance
 
