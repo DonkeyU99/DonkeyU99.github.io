@@ -15,7 +15,9 @@ title: Dong Kyu Shin
   border-radius: 50%;
   margin-right: 25px;
   margin-bottom: 20px;
+}
 </style>
+
 
 # Dong Kyu Shin
 I am an undergraduate researcher at **Seoul National University**, majoring in **Mechanical Engineering** with an **Interdisciplinary Major in Artificial Intelligence**.  
