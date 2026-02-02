@@ -127,7 +127,7 @@ Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweo
 <div class="hobby-section">
   <div class="hobby-content">
     <h3>Saxophone</h3>
-    <p>I enjoy playing the saxophone in my free time. Music provides a creative outlet alongside my technical research.</p>
+    <p>I enjoy playing the saxophone in my free time. Learning to improvise is one of the most creatively fulfilling activities!</p>
     <a href="https://www.youtube.com/watch?v=UTBj_NCl4YA&list=RDUTBj_NCl4YA&start_radio=1" target="_blank" class="performance-link">
       🎵 View Performances
     </a>
