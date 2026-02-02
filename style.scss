@@ -5,120 +5,11 @@
 
 /* Custom Styles for Academic Website */
 
-/* Single Column Layout Override */
-.wrapper {
-  width: 100%;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 50px 30px;
-}
-
-section {
-  width: 100%;
-  float: none;
-  padding: 0;
-}
-
-/* Header Section */
-.header-section {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 2.5em;
-  padding-bottom: 0;
-  border-bottom: none;
-}
-
-.profile-img {
-  width: 200px;
-  height: 200px;
-  border-radius: 0;
-  object-fit: cover;
-  margin-right: 40px;
-  flex-shrink: 0;
-  border: none;
-  box-shadow: none;
-}
-
-.header-content {
-  flex: 1;
-  padding-top: 10px;
-}
-
-.header-content h1 {
-  margin: 0 0 0.4em 0;
-  font-size: 2.5em;
-  color: #1a1a1a;
-  font-weight: 600;
-}
-
-.email-text {
-  font-size: 1.1em;
-  color: #666;
-  margin: 0.5em 0 1.2em 0;
-}
-
-/* Social Links - Icon Style */
-.social-links {
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-  margin-top: 1em;
-}
-
-.social-icon {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  color: #333;
-  text-decoration: none;
-  font-size: 0.95em;
-  transition: color 0.2s ease;
-}
-
-.social-icon:hover {
-  color: #0066cc;
-  text-decoration: none;
-}
-
-.social-icon svg {
-  fill: currentColor;
-}
-
-.divider {
-  width: 100%;
-  height: 1px;
-  background-color: #e0e0e0;
-  margin: 2em 0 2.5em 0;
-}
-
-.clear {
-  clear: both;
-}
-
-/* Content Sections */
-h2 {
-  color: #1a1a1a;
-  border-bottom: none;
-  padding-bottom: 0;
-  margin-top: 2.5em;
-  margin-bottom: 1.2em;
-  font-size: 1.8em;
-  font-weight: 600;
-}
-
-h3 {
-  color: #1a1a1a;
-  margin-top: 1.5em;
-  margin-bottom: 1em;
-  font-size: 1.2em;
-  font-weight: 600;
-}
-
 /* Experience Items */
 .experience-item {
   margin-bottom: 2em;
   padding-bottom: 1.5em;
-  border-bottom: 1px solid #f0f0f0;
+  border-bottom: 1px solid #e8e8e8;
 }
 
 .experience-item:last-child {
@@ -138,21 +29,21 @@ h3 {
 }
 
 .experience-title strong {
-  color: #1a1a1a;
+  color: #222;
   font-weight: 600;
   font-size: 1.05em;
 }
 
 .experience-date {
-  color: #888;
-  font-size: 0.95em;
+  color: #666;
+  font-size: 0.9em;
   white-space: nowrap;
   margin-left: 20px;
   padding-top: 2px;
 }
 
 .advisor {
-  color: #666;
+  color: #555;
   font-size: 0.95em;
   margin: 0.5em 0 0.8em 0;
   font-style: italic;
@@ -166,109 +57,75 @@ h3 {
 
 .experience-item li {
   margin-bottom: 0.4em;
-  color: #333;
   line-height: 1.6;
 }
 
-/* Remove default styles */
-strong {
-  color: inherit;
+/* Year Headers */
+h3 {
+  color: #222;
+  margin-top: 1.2em;
+  margin-bottom: 0.8em;
+  font-size: 1.2em;
   font-weight: 600;
-}
-
-em {
-  color: inherit;
 }
 
 /* Hobby Section */
 .hobby-section {
   display: flex;
-  align-items: center;
-  gap: 30px;
+  align-items: flex-start;
+  gap: 25px;
   margin-top: 1em;
-  padding: 20px 0;
-  background-color: transparent;
-  border-radius: 0;
 }
 
 .hobby-content {
   flex: 1;
 }
 
-.hobby-content h3 {
-  margin-top: 0;
-  color: #1a1a1a;
-}
-
 .saxophone-img {
-  width: 67px;
+  width: 80px;
   height: auto;
   border-radius: 4px;
-  box-shadow: none;
 }
 
 .performance-link {
   display: inline-block;
-  margin-top: 10px;
+  margin-top: 8px;
   padding: 6px 12px;
-  background-color: transparent;
-  color: #0066cc;
+  color: #0366d6;
   text-decoration: none;
+  border: 1px solid #0366d6;
   border-radius: 4px;
   font-size: 0.9em;
-  border: 1px solid #0066cc;
   transition: all 0.2s ease;
 }
 
 .performance-link:hover {
-  background-color: #0066cc;
+  background-color: #0366d6;
   color: white;
+  text-decoration: none;
 }
 
 /* Footer */
 .footer-note {
   text-align: center;
-  color: #999;
+  color: #666;
   font-size: 0.85em;
   margin-top: 3em;
   padding-top: 2em;
-  border-top: 1px solid #f0f0f0;
+  border-top: 1px solid #e8e8e8;
 }
 
-/* Links */
-a {
-  color: #0066cc;
-  text-decoration: none;
+/* Sidebar customizations */
+header p.view {
+  margin-bottom: 10px;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
-/* Horizontal rules */
-hr {
-  border: none;
-  border-top: 1px solid #e0e0e0;
-  margin: 2.5em 0;
+header p.view a {
+  font-size: 0.9em;
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
-  .header-section {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .profile-img {
-    margin-right: 0;
-    margin-bottom: 20px;
-  }
-
-  .social-links {
-    justify-content: center;
-  }
-
   .experience-header {
     flex-direction: column;
   }
@@ -280,26 +137,9 @@ hr {
 
   .hobby-section {
     flex-direction: column;
-    text-align: center;
   }
 
   .saxophone-img {
-    width: 50%;
-    max-width: 50px;
-  }
-}
-
-@media (max-width: 480px) {
-  .header-content h1 {
-    font-size: 2em;
-  }
-
-  .profile-img {
-    width: 150px;
-    height: 150px;
-  }
-
-  h2 {
-    font-size: 1.5em;
+    width: 100px;
   }
 }
