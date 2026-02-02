@@ -16,11 +16,11 @@ logo: /assets/profile.png
 email: dkshin99@snu.ac.kr
 
 # Social links
-github_username: YOUR_GITHUB_USERNAME
-linkedin_username: YOUR_LINKEDIN_USERNAME
+github_username: DonkeyU99
+linkedin_username: dkshin99
 
 # Show/hide elements
-show_downloads: true
+show_downloads: false
 
 # Theme customization
 markdown: kramdown
