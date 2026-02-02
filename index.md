@@ -62,7 +62,7 @@ I am an undergraduate researcher at Seoul National University, majoring in Mecha
 - GPA: **3.96 / 4.3**
 
 **Shanghai Community International School**  
-*May 2016 – May 2018*
+*May 2015 – May 2018*
 
 ---
 
