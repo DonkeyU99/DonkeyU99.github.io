@@ -36,7 +36,8 @@ B.S. in Interdisciplinary Major in Artificial Intelligence
 **KAIST RISELab (Prof. Kimin Lee)**  
 *Research Intern | August 2025 – Present*  
 - Research on **Human-to-Robot Transfer** and **Human–Robot Interaction**
-- Focus on learning from human feedback and demonstrations
+- Focus on learning from human and demonstrations
+- Studying how human observations can be utilized to enhance human–robot interaction and learning
 
 **SNU Robotics Laboratory (Prof. Frank Chongwoo Park)**  
 *Undergraduate Thesis | August 2024 – June 2025*  
@@ -66,12 +67,12 @@ B.S. in Interdisciplinary Major in Artificial Intelligence
 
 **RC-Car Autonomous Racing Challenge**  
 - Modified PPO-based reinforcement learning for autonomous racing on unknown tracks  
-- Tools: Python, ROS2  
+- Tools:Python, ROS2  
 
 **Goal-Conditioned Reinforcement Learning with Language**  
 - Investigated whether language instructions can generate goals for GCRL  
 - Implemented SAC-based methods  
-- Tools: Python, CALVIN Benchmark  
+- Tools:Python, CALVIN Benchmark  
 ---
 
 ## Coursework Highlights
