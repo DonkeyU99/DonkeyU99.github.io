@@ -3,6 +3,7 @@ layout: default
 title: Dong Kyu Shin
 
 <img src="/assets/images/profile.png" alt="Dong Kyu Shin" width="220" style="border-radius: 50%;">
+
 ---
 
 # Dong Kyu Shin
@@ -74,6 +75,7 @@ B.S. in Interdisciplinary Major in Artificial Intelligence
 - Investigated whether language instructions can generate goals for GCRL  
 - Implemented SAC-based methods  
 - Tools:Python, MuJoCo
+
 ---
 
 ## Coursework Highlights
@@ -95,6 +97,7 @@ Data Science & Reinforcement Learning, Large Language Models and Reinforcement L
 - **Languages:** Korean (Native), English (Intermediate), Mandarin Chinese (Conversationary)
 
 ---
+
 ## Hobbies
 
 **Saxophone**  
