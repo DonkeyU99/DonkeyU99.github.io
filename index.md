@@ -2,9 +2,20 @@
 layout: default
 title: Dong Kyu Shin
 
-<img src="/assets/profile.png" alt="Dong Kyu Shin" width="220" style="border-radius: 50%;">
-
 ---
+
+<img src="/assets/profile.png"
+     alt="Dong Kyu Shin"
+     class="profile-img">
+
+<style>
+.profile-img {
+  float: left;
+  width: 220px;
+  border-radius: 50%;
+  margin-right: 25px;
+  margin-bottom: 20px;
+</style>
 
 # Dong Kyu Shin
 I am an undergraduate researcher at **Seoul National University**, majoring in **Mechanical Engineering** with an **Interdisciplinary Major in Artificial Intelligence**.  
@@ -102,7 +113,7 @@ Data Science & Reinforcement Learning, Large Language Models and Reinforcement L
 
 **Saxophone**  
 
-<img src="/assets/saxophone.png" alt="Playing saxophone" width="400">
+<img src="/assets/saxophone.png" alt="Playing saxophone" width="200">
 
 [Some Performances](https://www.youtube.com/watch?v=UTBj_NCl4YA&list=RDUTBj_NCl4YA&start_radio=1)
 
