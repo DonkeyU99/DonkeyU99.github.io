@@ -67,12 +67,12 @@ B.S. in Interdisciplinary Major in Artificial Intelligence
 
 **RC-Car Autonomous Racing Challenge**  
 - Modified PPO-based reinforcement learning for autonomous racing on unknown tracks  
-- Tools:Python, ROS2  
+- Tools:Python, ROS2, MuJoCo  
 
 **Goal-Conditioned Reinforcement Learning with Language**  
 - Investigated whether language instructions can generate goals for GCRL  
 - Implemented SAC-based methods  
-- Tools:Python, CALVIN Benchmark  
+- Tools: Python, MuJoCo
 ---
 
 ## Coursework Highlights
@@ -94,6 +94,10 @@ Data Science & Reinforcement Learning, Large Language Models and Reinforcement L
 - **Languages:** Korean (Native), English (Intermediate), Mandarin Chinese (Conversationary)
 
 ---
+## Hobbies
+
+**Saxophone**  
+🎷 [Listen on YouTube](https://www.youtube.com/watch?v=UTBj_NCl4YA&list=RDUTBj_NCl4YA&start_radio=1)
 
 ## Contact
 
