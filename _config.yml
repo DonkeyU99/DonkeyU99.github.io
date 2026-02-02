@@ -1,3 +1,17 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
+title: Dong Kyu Shin
+description: Undergraduate Researcher | Robotics & AI
+logo: /assets/profile.png
+
+# Social links (optional - update with your actual URLs)
+linkedin_username: YOUR_LINKEDIN_USERNAME
+google_scholar_id: YOUR_GOOGLE_SCHOLAR_ID
+
+# Show/hide elements
+show_downloads: false
+
+# Theme customization
+markdown: kramdown
