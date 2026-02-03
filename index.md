@@ -53,7 +53,7 @@ My research focuses on sequential decision-making, reinforcement learning, and r
     </div>
     <div class="experience-date">Aug. 2025 – Present</div>
   </div>
-  <p class="advisor">Advisor: Prof. Kimin Lee</p>
+  <p class="advisor">Advisor: Kimin Lee</p>
   <ul>
     <li>Conducting research on <strong>Human-to-Robot Transfer</strong> and <strong>Human–Robot Interaction</strong></li>
     <li>Investigating how human observations can enhance robot learning capabilities</li>
@@ -68,7 +68,7 @@ My research focuses on sequential decision-making, reinforcement learning, and r
     </div>
     <div class="experience-date">Aug. 2024 – Jun. 2025</div>
   </div>
-  <p class="advisor">Advisor: Prof. Frank Chongwoo Park</p>
+  <p class="advisor">Advisor: Frank Chongwoo Park</p>
   <ul>
     <li>Developed <strong>SE(3)-equivariant grasp pose generation</strong> methods</li>
     <li>Applied <strong>rectified flow models</strong> to 6-DoF grasp sampling</li>
@@ -83,7 +83,7 @@ My research focuses on sequential decision-making, reinforcement learning, and r
     </div>
     <div class="experience-date">Jun. 2023 – Oct. 2023</div>
   </div>
-  <p class="advisor">Advisor: Prof. Frank Chongwoo Park</p>
+  <p class="advisor">Advisor: Frank Chongwoo Park</p>
   <ul>
     <li>Studied anomaly detection algorithms</li>
     <li>Implemented <strong>hyperspherical embedding with ViT backbone</strong>, achieving SOTA-comparable performance</li>
