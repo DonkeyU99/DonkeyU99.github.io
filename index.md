@@ -3,6 +3,16 @@ layout: default
 title: Dong Kyu Shin
 ---
 
+## Contact
+
+**Email:** [dkshin99@snu.ac.kr](mailto:dkshin99@snu.ac.kr) | [dkshin99@gmail.com](mailto:dkshin99@gmail.com)
+**LinkedIn:** https://www.linkedin.com/in/dkshin99 
+**GitHub:** https://github.com/DonkeyU99
+**Google Scholar:** https://scholar.google.com/citations?user=XXXX  
+**CV:** [PDF]()
+
+---
+
 ## About Me
 
 I am an undergraduate researcher at Seoul National University, majoring in Mechanical Engineering with an Interdisciplinary Major in Artificial Intelligence. 
@@ -142,11 +152,5 @@ Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweo
   </div>
   <img src="/assets/saxophone.png" alt="Playing saxophone" class="saxophone-img">
 </div>
-
----
-
-## Contact
-
-**Email:** [dkshin99@snu.ac.kr](mailto:dkshin99@snu.ac.kr) | [dkshin99@gmail.com](mailto:dkshin99@gmail.com)
 
 <p class="footer-note"><em>Last updated: February 2026</em></p>
