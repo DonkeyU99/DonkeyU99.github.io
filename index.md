@@ -129,7 +129,7 @@ Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweo
 ## Technical Skills
 
 **Programming Languages:** Python (PyTorch, OpenGL), MATLAB, C++, ROS2  
-**Languages:** Korean (Native), English (Fluent), Mandarin Chinese (Conversational)
+**Languages:** Korean (Native), English (Intermediate), Mandarin Chinese (Conversational)
 
 ---
 
