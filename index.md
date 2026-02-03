@@ -124,11 +124,6 @@ Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweo
 - Developed modified PPO-based reinforcement learning for autonomous racing on unknown tracks
 - Technologies: Python, ROS2, MuJoCo
 
-**Goal-Conditioned Reinforcement Learning with Language**
-- Investigated language instructions as goal generators for GCRL
-- Implemented SAC-based methods
-- Technologies: Python, MuJoCo
-
 ---
 
 ## Technical Skills
