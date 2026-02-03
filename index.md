@@ -56,7 +56,6 @@ My research focuses on sequential decision-making, reinforcement learning, and r
   <p class="advisor">Advisor: Prof. Kimin Lee</p>
   <ul>
     <li>Conducting research on <strong>Human-to-Robot Transfer</strong> and <strong>Human–Robot Interaction</strong></li>
-    <li>Focusing on learning from human demonstrations</li>
     <li>Investigating how human observations can enhance robot learning capabilities</li>
   </ul>
 </div>
