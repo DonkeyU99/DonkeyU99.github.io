@@ -3,12 +3,16 @@ layout: default
 title: Dong Kyu Shin
 ---
 
-## Contact
+## Contact Info
 
 **Email:** [dkshin99@snu.ac.kr](mailto:dkshin99@snu.ac.kr) | [dkshin99@gmail.com](mailto:dkshin99@gmail.com)
+
 **LinkedIn:** https://www.linkedin.com/in/dkshin99 
+
 **GitHub:** https://github.com/DonkeyU99
+
 **Google Scholar:** https://scholar.google.com/citations?user=XXXX  
+
 **CV:** [PDF]()
 
 ---
