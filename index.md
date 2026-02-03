@@ -5,15 +5,11 @@ title: Dong Kyu Shin
 
 ## Contact Info
 
-**Email:** [dkshin99@snu.ac.kr](mailto:dkshin99@snu.ac.kr) | [dkshin99@gmail.com](mailto:dkshin99@gmail.com)
-
-**LinkedIn:** https://www.linkedin.com/in/dkshin99 
-
-**GitHub:** https://github.com/DonkeyU99
-
-**Google Scholar:** https://scholar.google.com/citations?user=XXXX  
-
-**CV:** [PDF]()
+ - **Email:** [dkshin99@snu.ac.kr](mailto:dkshin99@snu.ac.kr) | [dkshin99@gmail.com](mailto:dkshin99@gmail.com)
+ - **LinkedIn:** [Click](https://www.linkedin.com/in/dkshin99)
+ - **GitHub:** [Click](https://github.com/DonkeyU99)
+ - **Google Scholar:** [Click](https://scholar.google.com/citations?user=XXXX)
+ - **CV:** [Click]()
 
 ---
 
