@@ -5,7 +5,7 @@ title: Dong Kyu Shin
 
 ## Contact Info
 
- - **Email:** [dkshin99@snu.ac.kr](mailto:dkshin99@snu.ac.kr) | [dkshin99@gmail.com](mailto:dkshin99@gmail.com)
+ - **Email:** [dkshin99@gmail.com](mailto:dkshin99@gmail.com)
  - **LinkedIn:** [Click](https://www.linkedin.com/in/dkshin99)
  - **GitHub:** [Click](https://github.com/DonkeyU99)
  - **Google Scholar:** [Click](https://scholar.google.com/citations?user=XXXX)
@@ -16,7 +16,7 @@ title: Dong Kyu Shin
 ## About Me
 
 I am an undergraduate researcher at Seoul National University, majoring in Mechanical Engineering with an Interdisciplinary Major in Artificial Intelligence. 
-My research focuses on sequential decision-making, reinforcement learning, and robot manipulation. Recently, I am working on human–robot interaction and robot learning from human data.
+My research focuses on sequential decision-making, reinforcement learning, and robot manipulation. Currently, I work as a Research Intern at the KAIST RISE Lab, advised by Prof. Kimin Lee. Recently, I am working on human–robot interaction and robot learning from human data.
 
 ---
 
@@ -140,6 +140,23 @@ Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweo
 
 **Programming Languages:** Python (PyTorch, OpenGL), MATLAB, C++, ROS2  
 **Languages:** Korean (Native), English (Intermediate), Mandarin Chinese (Conversational)
+
+---
+
+## Awards and Honors
+
+- **2024 Science and Engineering Scholarship**  
+  *Ministry of Science and ICT* (Sept 2023 – Feb 2025)
+- **2nd Place**, RC-Car Autonomous Racing Challenge  
+  (Dec 2024)
+- **Bronze Medal**, Mechatronics Project Contest  
+  *Hyundai Infracore* (Jun 2023)
+- **Academic Excellence Scholarship**  
+  (Mar 2023 – Aug 2023)
+- **Academic Excellence Scholarship**  
+  (Mar 2020 – Feb 2021)
+- **Academic Excellence Scholarship**  
+  (Mar 2019 – Feb 2020)
 
 ---
 
