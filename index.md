@@ -154,9 +154,7 @@ Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweo
 - **Academic Excellence Scholarship**  
   (Mar 2023 – Aug 2023)
 - **Academic Excellence Scholarship**  
-  (Mar 2020 – Feb 2021)
-- **Academic Excellence Scholarship**  
-  (Mar 2019 – Feb 2020)
+  (Mar 2019 – Feb 2021)
 
 ---
 
