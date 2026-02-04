@@ -145,7 +145,7 @@ Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweo
 
 ## Awards and Honors
 
-- **2024 Science and Engineering Scholarship**  
+- **Science and Engineering Scholarship**  
   *Ministry of Science and ICT* (Sept 2023 – Feb 2025)
 - **2nd Place**, RC-Car Autonomous Racing Challenge  
   (Dec 2024)
