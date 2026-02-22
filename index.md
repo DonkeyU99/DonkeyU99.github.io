@@ -123,11 +123,12 @@ Publication Type — C: Conference | J: Journal | P: Preprint
 
 **\[C2\] Learning Multi-View Spatial Reasoning from Cross-View Relations**  
 Suchae Jeong\*, Jaehwi Song\*, Haeone Lee, Hanna Kim, Jian Kim, Dongjun Lee, **Dong Kyu Shin**, Changyeon Kim, Dongyoon Hahm, Woogyeol Jin, Juheon Choi, Kimin Lee†  
-*Computer Vision and Pattern Recognition (CVPR) 2026*  
+*Computer Vision and Pattern Recognition (CVPR) 2026*
 
 **\[C1\] Value Gradient Sampler: Learning Invariant Value Functions for Equivariant Diffusion Sampling**   
 Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweon, Sangwoong Yoon†, Frank Chongwoo Park†  
 *AISTATS 2026*  
+ [[Arxiv]](https://arxiv.org/abs/2502.13280)
 
 ---
 
