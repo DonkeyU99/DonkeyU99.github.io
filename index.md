@@ -116,6 +116,7 @@ My research focuses on sequential decision-making, reinforcement learning, and r
 ---
 
 ## Publications
+Publication Type — C: Conference | J: Journal | P: Preprint
 (\* equal contribution, † co-corresponding authors)
 
 ### 2026
