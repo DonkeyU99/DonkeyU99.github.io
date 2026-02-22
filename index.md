@@ -116,13 +116,17 @@ My research focuses on sequential decision-making, reinforcement learning, and r
 ---
 
 ## Publications
+(\* equal contribution, † co-corresponding authors)
 
 ### 2026
+
+**Learning Multi-View Spatial Reasoning from Cross-View Relations**
+Suchae Jeong\*, Jaehwi Song\*, Haeone Lee, Hanna Kim, Jian Kim, Dongjun Lee, **Dong Kyu Shin**, Changyeon Kim, Dongyoon Hahm, Woogyeol Jin, Juheon Choi, Kimin Lee†
+*Computer Vision and Pattern Recognition (CVPR), 2026*  
 
 **Value Gradient Sampler: Learning Invariant Value Functions for Equivariant Diffusion Sampling**  
 Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweon, Sangwoong Yoon†, Frank Chongwoo Park†  
 *AISTATS 2026*  
-(\* equal contribution, † co-corresponding authors)
 
 ---
 
