@@ -69,6 +69,57 @@ h3 {
   font-weight: 600;
 }
 
+/* Publication / project cards (sinjae.me style) */
+.pub-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin: 0 0 1.4em 0;
+  padding-bottom: 0.4em;
+}
+
+.pub-thumb {
+  width: 168px;
+  max-width: 168px;
+  height: auto;
+  border-radius: 6px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.pub-body {
+  flex: 1;
+  min-width: 0;
+  background: #f4f7f5;
+  padding: 10px 14px 4px 14px;
+  border-radius: 4px;
+}
+
+.pub-title {
+  font-weight: 700;
+  font-size: 1.02em;
+  line-height: 1.35;
+  color: #222;
+}
+
+.pub-authors,
+.pub-venue,
+.pub-links {
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+
+.pub-venue {
+  color: #333;
+}
+
+.pub-teaser {
+  margin: 0.55em 0 0.35em 0;
+  font-size: 0.92em;
+  line-height: 1.5;
+  color: #444;
+}
+
 /* Hobby Section */
 .hobby-section {
   display: flex;
@@ -141,5 +192,14 @@ header p.view a {
 
   .saxophone-img {
     width: 60px;
+  }
+
+  .pub-item {
+    flex-direction: column;
+  }
+
+  .pub-thumb {
+    width: 100%;
+    max-width: 280px;
   }
 }

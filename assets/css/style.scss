@@ -1,0 +1,205 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom Styles for Academic Website */
+
+/* Experience Items */
+.experience-item {
+  margin-bottom: 2em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.experience-item:last-child {
+  border-bottom: none;
+}
+
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.5em;
+}
+
+.experience-title {
+  flex: 1;
+  line-height: 1.6;
+}
+
+.experience-title strong {
+  color: #222;
+  font-weight: 600;
+  font-size: 1.05em;
+}
+
+.experience-date {
+  color: #666;
+  font-size: 0.9em;
+  white-space: nowrap;
+  margin-left: 20px;
+  padding-top: 2px;
+}
+
+.advisor {
+  color: #555;
+  font-size: 0.95em;
+  margin: 0.5em 0 0.8em 0;
+  font-style: italic;
+}
+
+/* Lists */
+.experience-item ul {
+  margin: 0.8em 0 0 0;
+  padding-left: 1.5em;
+}
+
+.experience-item li {
+  margin-bottom: 0.4em;
+  line-height: 1.6;
+}
+
+/* Year Headers */
+h3 {
+  color: #222;
+  margin-top: 1.2em;
+  margin-bottom: 0.8em;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+/* Publication / project cards (sinjae.me style) */
+.pub-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin: 0 0 1.4em 0;
+  padding-bottom: 0.4em;
+}
+
+.pub-thumb {
+  width: 168px;
+  max-width: 168px;
+  height: auto;
+  border-radius: 6px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.pub-body {
+  flex: 1;
+  min-width: 0;
+  background: #f4f7f5;
+  padding: 10px 14px 4px 14px;
+  border-radius: 4px;
+}
+
+.pub-title {
+  font-weight: 700;
+  font-size: 1.02em;
+  line-height: 1.35;
+  color: #222;
+}
+
+.pub-authors,
+.pub-venue,
+.pub-links {
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+
+.pub-venue {
+  color: #333;
+}
+
+.pub-teaser {
+  margin: 0.55em 0 0.35em 0;
+  font-size: 0.92em;
+  line-height: 1.5;
+  color: #444;
+}
+
+/* Hobby Section */
+.hobby-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+  margin-top: 1em;
+}
+
+.hobby-content {
+  flex: 1;
+}
+
+.saxophone-img {
+  width: 80px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.performance-link {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 6px 12px;
+  color: #0366d6;
+  text-decoration: none;
+  border: 1px solid #0366d6;
+  border-radius: 4px;
+  font-size: 0.9em;
+  transition: all 0.2s ease;
+}
+
+.performance-link:hover {
+  background-color: #0366d6;
+  color: white;
+  text-decoration: none;
+}
+
+/* Footer */
+.footer-note {
+  text-align: center;
+  color: #666;
+  font-size: 0.85em;
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 1px solid #e8e8e8;
+}
+
+/* Sidebar customizations */
+header p.view {
+  margin-bottom: 10px;
+}
+
+header p.view a {
+  font-size: 0.9em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .experience-header {
+    flex-direction: column;
+  }
+
+  .experience-date {
+    margin-left: 0;
+    margin-top: 0.3em;
+  }
+
+  .hobby-section {
+    flex-direction: column;
+  }
+
+  .saxophone-img {
+    width: 60px;
+  }
+
+  .pub-item {
+    flex-direction: column;
+  }
+
+  .pub-thumb {
+    width: 100%;
+    max-width: 280px;
+  }
+}

@@ -15,8 +15,7 @@ title: Dong Kyu Shin
 
 ## About Me
 
-I am an undergraduate researcher at Seoul National University, majoring in Mechanical Engineering with an Interdisciplinary Major in Artificial Intelligence. 
-My research focuses on sequential decision-making, reinforcement learning, and robot manipulation. Currently, I work as a Research Intern at the KAIST RISE Lab, advised by Prof. Kimin Lee. Recently, I am working on human–robot interaction and robot learning from human data.
+Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sites.google.com/view/kiminlee). I received B.S. degrees in Mechanical Engineering and Artificial Intelligence from Seoul National University in August 2026. My research focuses on sequential decision-making, reinforcement learning, and robot learning from human data, with a particular interest in natural human–robot interaction.
 
 ---
 
@@ -33,12 +32,22 @@ My research focuses on sequential decision-making, reinforcement learning, and r
 <div class="experience-item">
   <div class="experience-header">
     <div class="experience-title">
+      <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong><br>
+      M.S. in Artificial Intelligence<br>
+      Advisor: <a href="https://sites.google.com/view/kiminlee">Kimin Lee</a>
+    </div>
+    <div class="experience-date">Sep. 2026 – Present</div>
+  </div>
+</div>
+
+<div class="experience-item">
+  <div class="experience-header">
+    <div class="experience-title">
       <strong>Seoul National University (SNU)</strong><br>
       B.S. in Mechanical Engineering<br>
       B.S. in Interdisciplinary Major in Artificial Intelligence<br>
-      GPA: <strong>3.96 / 4.3</strong>
     </div>
-    <div class="experience-date">Mar. 2019 – Present</div>
+    <div class="experience-date">Mar. 2019 – Aug. 2026</div>
   </div>
 </div>
 
@@ -58,8 +67,9 @@ My research focuses on sequential decision-making, reinforcement learning, and r
 <div class="experience-item">
   <div class="experience-header">
     <div class="experience-title">
-      <strong>KAIST RISELab</strong><br>
-      Research Intern
+      <strong>KAIST AI · RISE Lab</strong><br>
+      Master's Student (Sep. 2026 – Present)<br>
+      Research Intern (Aug. 2025 – Aug. 2026)
     </div>
     <div class="experience-date">Aug. 2025 – Present</div>
   </div>
@@ -116,29 +126,70 @@ My research focuses on sequential decision-making, reinforcement learning, and r
 ---
 
 ## Publications
-Publication Type — C: Conference | J: Journal | P: Preprint  
-(\* equal contribution, † co-corresponding authors)
 
-### 2026
+(* equal contribution, † co-corresponding authors)
 
-**\[C2\] Learning Multi-View Spatial Reasoning from Cross-View Relations**  
-Suchae Jeong\*, Jaehwi Song\*, Haeone Lee, Hanna Kim, Jian Kim, Dongjun Lee, **Dong Kyu Shin**, Changyeon Kim, Dongyoon Hahm, Woogyeol Jin, Juheon Choi, Kimin Lee†  
-*The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026*
+<div class="pub-item">
+  <img class="pub-thumb" src="/assets/papers/edith.png" alt="EDITH">
+  <div class="pub-body">
+    <div class="pub-title">EDITH: Hierarchical Policies from Verbal and Egocentric Human Signals for Natural Human–Robot Interaction</div>
+    <div class="pub-authors">Dongjun Lee*, Juheon Choi*, <strong>Dong Kyu Shin*</strong>, Sinjae Kang, Kimin Lee</div>
+    <div class="pub-venue">Under review / ArXiv Preprint, 2026</div>
+    <div class="pub-links">
+      <a href="https://project-edith.github.io">project page</a>
+      /
+      <a href="https://arxiv.org/abs/2606.10276">arXiv</a>
+    </div>
+    <p class="pub-teaser">A hierarchical policy framework that learns natural human–robot interaction from verbal and egocentric human signals, enabling robots to interpret spoken instructions and first-person visual cues for grounded, intuitive collaboration.</p>
+  </div>
+</div>
 
-**\[C1\] Value Gradient Sampler: Learning Invariant Value Functions for Equivariant Diffusion Sampling**   
-Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweon, Sangwoong Yoon†, Frank Chongwoo Park†  
-*Proceedings of the 29th International Conference on Artificial Intelligence and Statistics (AISTATS) 2026, Tangier, Morocco*  
-[[Paper]](https://arxiv.org/abs/2502.13280)
+<div class="pub-item">
+  <img class="pub-thumb" src="/assets/papers/xvr.png" alt="XVR">
+  <div class="pub-body">
+    <div class="pub-title">Learning Multi-View Spatial Reasoning from Cross-View Relations</div>
+    <div class="pub-authors">Suchae Jeong*, Jaehwi Song*, Haeone Lee, Hanna Kim, Jian Kim, Dongjun Lee, <strong>Dong Kyu Shin</strong>, Changyeon Kim, Dongyoon Hahm, Woogyeol Jin, Juheon Choi, Kimin Lee†</div>
+    <div class="pub-venue"><strong>CVPR</strong> 2026</div>
+    <div class="pub-links">
+      <a href="https://cross-view-relations.github.io/">project page</a>
+      /
+      <a href="https://arxiv.org/abs/2603.27967">arXiv</a>
+      /
+      <a href="https://github.com/cross-view-relations/cross-view-relations">code</a>
+    </div>
+    <p class="pub-teaser">A large-scale dataset of 100K multi-view VQA samples that teaches VLMs spatial reasoning across viewpoints—correspondence, verification, and localization—and transfers those representations to robotic manipulation.</p>
+  </div>
+</div>
+
+<div class="pub-item">
+  <img class="pub-thumb" src="/assets/papers/vgs.png" alt="Value Gradient Sampler">
+  <div class="pub-body">
+    <div class="pub-title">Value Gradient Sampler: Learning Invariant Value Functions for Equivariant Diffusion Sampling</div>
+    <div class="pub-authors">Himchan Hwang*, Hyeokju Jeong*, <strong>Dong Kyu Shin*</strong>, Che-Sang Park, Sehee Kweon, Sangwoong Yoon†, Frank Chongwoo Park†</div>
+    <div class="pub-venue"><strong>AISTATS</strong> 2026</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2502.13280">arXiv</a>
+      /
+      <a href="https://github.com/swyoon/value-gradient-sampler">code</a>
+    </div>
+    <p class="pub-teaser">A diffusion sampler parameterized by invariant value functions, inducing equivariant gradient flows without equivariant architectures and combining RL training with efficient invariant networks for high-quality particle sampling.</p>
+  </div>
+</div>
 
 ---
 
 ## Selected Projects
 
-### 2024
-
-**RC-Car Autonomous Racing Challenge** [[LINK]](https://www.youtube.com/watch?v=zlIGfZmXp-g)
-- Developed modified PPO-based reinforcement learning for autonomous racing on unknown tracks
-- Technologies: Python, ROS2, MuJoCo
+<div class="pub-item">
+  <div class="pub-body">
+    <div class="pub-title">RC-Car Autonomous Racing Challenge</div>
+    <div class="pub-venue">2024</div>
+    <div class="pub-links">
+      <a href="https://www.youtube.com/watch?v=zlIGfZmXp-g">video</a>
+    </div>
+    <p class="pub-teaser">Modified PPO-based reinforcement learning for autonomous racing on unknown tracks, using Python, ROS2, and MuJoCo.</p>
+  </div>
+</div>
 
 ---
 
@@ -174,4 +225,4 @@ Himchan Hwang\*, Hyeokju Jeong\*, **Dong Kyu Shin**\*, Che-Sang Park, Sehee Kweo
   <img src="/assets/saxophone.png" alt="Playing saxophone" class="saxophone-img">
 </div>
 
-<p class="footer-note"><em>Last updated: February 2026</em></p>
+<p class="footer-note"><em>Last updated: September 2026</em></p>

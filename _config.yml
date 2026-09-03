@@ -4,15 +4,14 @@ plugins:
 
 title: Dong Kyu Shin
 description: |
-  Undergraduate Researcher<br>
-  Seoul National University<br>
-  B.S. in Mechanical Engineering<br>
-  B.S. in Artificial Intelligence
+  M.S. Student<br>
+  KAIST Graduate School of AI<br>
+  Advised by Prof. Kimin Lee
 
 logo: /assets/profile.png
 
 # Contact information
-email: dkshin99@snu.ac.kr
+email: dkshin99@gmail.com
 
 # Social links
 github_username: DonkeyU99
