@@ -127,12 +127,13 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
 
 ## Publications
 
+Publication Type — C: Conference | J: Journal | P: Preprint  
 (* equal contribution, † co-corresponding authors)
 
 <div class="pub-item">
   <img class="pub-thumb" src="/assets/papers/edith.png" alt="EDITH">
   <div class="pub-body">
-    <div class="pub-title">EDITH: Hierarchical Policies from Verbal and Egocentric Human Signals for Natural Human–Robot Interaction</div>
+    <div class="pub-title">[P1] EDITH: Hierarchical Policies from Verbal and Egocentric Human Signals for Natural Human–Robot Interaction</div>
     <div class="pub-authors">Dongjun Lee*, Juheon Choi*, <strong>Dong Kyu Shin*</strong>, Sinjae Kang, Kimin Lee</div>
     <div class="pub-venue">Under review / ArXiv Preprint, 2026</div>
     <div class="pub-links">
@@ -147,7 +148,7 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
 <div class="pub-item">
   <img class="pub-thumb" src="/assets/papers/xvr.png" alt="XVR">
   <div class="pub-body">
-    <div class="pub-title">Learning Multi-View Spatial Reasoning from Cross-View Relations</div>
+    <div class="pub-title">[C2] Learning Multi-View Spatial Reasoning from Cross-View Relations</div>
     <div class="pub-authors">Suchae Jeong*, Jaehwi Song*, Haeone Lee, Hanna Kim, Jian Kim, Dongjun Lee, <strong>Dong Kyu Shin</strong>, Changyeon Kim, Dongyoon Hahm, Woogyeol Jin, Juheon Choi, Kimin Lee†</div>
     <div class="pub-venue"><strong>CVPR</strong> 2026</div>
     <div class="pub-links">
@@ -164,7 +165,7 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
 <div class="pub-item">
   <img class="pub-thumb" src="/assets/papers/vgs.png" alt="Value Gradient Sampler">
   <div class="pub-body">
-    <div class="pub-title">Value Gradient Sampler: Learning Invariant Value Functions for Equivariant Diffusion Sampling</div>
+    <div class="pub-title">[C1] Value Gradient Sampler: Learning Invariant Value Functions for Equivariant Diffusion Sampling</div>
     <div class="pub-authors">Himchan Hwang*, Hyeokju Jeong*, <strong>Dong Kyu Shin*</strong>, Che-Sang Park, Sehee Kweon, Sangwoong Yoon†, Frank Chongwoo Park†</div>
     <div class="pub-venue"><strong>AISTATS</strong> 2026</div>
     <div class="pub-links">
@@ -221,8 +222,11 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
   <div class="hobby-content">
     <h3>Saxophone</h3>
     <p>I enjoy playing the saxophone in my free time. Learning and performing improvisation is one of the most creatively fulfilling parts of my life.</p>
+    <a href="https://www.youtube.com/watch?v=UTBj_NCl4YA" target="_blank" rel="noopener noreferrer" class="performance-link">View Performances</a>
   </div>
-  <img src="/assets/saxophone.png" alt="Playing saxophone" class="saxophone-img">
+  <a href="https://www.youtube.com/watch?v=UTBj_NCl4YA" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/saxophone.png" alt="Playing saxophone" class="saxophone-img">
+  </a>
 </div>
 
 <p class="footer-note"><em>Last updated: September 2026</em></p>
