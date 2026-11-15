@@ -3,29 +3,25 @@ layout: default
 title: Dong Kyu Shin
 ---
 
-## Contact Info
+<p class="intro">
+Hi, I'm a master's student at KAIST AI, advised by Prof. <a href="https://sites.google.com/view/kiminlee">Kimin Lee</a>.
+I received B.S. degrees in Mechanical Engineering and Artificial Intelligence from Seoul National University in August 2026.
+My research focuses on sequential decision-making, reinforcement learning, and robot learning from human data, with a particular interest in natural human–robot interaction.
+</p>
 
- - **Email:** [dkshin99@gmail.com](mailto:dkshin99@gmail.com)
- - **LinkedIn:** [Click](https://www.linkedin.com/in/dkshin99)
- - **GitHub:** [Click](https://github.com/DonkeyU99)
- - **Google Scholar:** [Click](https://scholar.google.com/citations?user=XXXX)
- - **CV:** [Click]()
-
----
-
-## About Me
-
-Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sites.google.com/view/kiminlee). I received B.S. degrees in Mechanical Engineering and Artificial Intelligence from Seoul National University in August 2026. My research focuses on sequential decision-making, reinforcement learning, and robot learning from human data, with a particular interest in natural human–robot interaction.
-
----
+<p class="link-row">
+  <a href="mailto:dkshin99@gmail.com">Email</a>
+  &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/dkshin99">LinkedIn</a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/DonkeyU99">GitHub</a>
+</p>
 
 ## Research Interests
 
-- **Reinforcement Learning & Sequential Decision Making**
-- **Robotics & Robot Manipulation**
-- **Human–Robot Interaction and Human-to-Robot Transfer**
-
----
+- Reinforcement Learning & Sequential Decision Making
+- Robotics & Robot Manipulation
+- Human–Robot Interaction and Human-to-Robot Transfer
 
 ## Education
 
@@ -45,7 +41,7 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
     <div class="experience-title">
       <strong>Seoul National University (SNU)</strong><br>
       B.S. in Mechanical Engineering<br>
-      B.S. in Interdisciplinary Major in Artificial Intelligence<br>
+      B.S. in Interdisciplinary Major in Artificial Intelligence
     </div>
     <div class="experience-date">Mar. 2019 – Aug. 2026</div>
   </div>
@@ -60,8 +56,6 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
   </div>
 </div>
 
----
-
 ## Research & Professional Experience
 
 <div class="experience-item">
@@ -75,8 +69,8 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
   </div>
   <p class="advisor">Advisor: Kimin Lee</p>
   <ul>
-    <li>Conducting research on <strong>Human-to-Robot Transfer</strong> and <strong>Human–Robot Interaction</strong></li>
-    <li>Investigating how human observations can enhance robot learning capabilities</li>
+    <li>Human-to-Robot Transfer and Human–Robot Interaction</li>
+    <li>Learning robot policies from human observations</li>
   </ul>
 </div>
 
@@ -90,8 +84,8 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
   </div>
   <p class="advisor">Advisor: Frank Chongwoo Park</p>
   <ul>
-    <li>Developed <strong>SE(3)-equivariant grasp pose generation</strong> methods</li>
-    <li>Applied <strong>rectified flow models</strong> to 6-DoF grasp sampling</li>
+    <li>SE(3)-equivariant grasp pose generation</li>
+    <li>Rectified flow models for 6-DoF grasp sampling</li>
   </ul>
 </div>
 
@@ -105,8 +99,7 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
   </div>
   <p class="advisor">Advisor: Frank Chongwoo Park</p>
   <ul>
-    <li>Studied anomaly detection algorithms</li>
-    <li>Implemented <strong>hyperspherical embedding with ViT backbone</strong>, achieving SOTA-comparable performance</li>
+    <li>Anomaly detection with hyperspherical embedding on a ViT backbone</li>
   </ul>
 </div>
 
@@ -119,16 +112,28 @@ Hi, I'm a master's student at KAIST AI, advised by Prof. [Kimin Lee](https://sit
     <div class="experience-date">Feb. 2021 – Jul. 2022</div>
   </div>
   <ul>
-    <li>Discharged as <strong>Army Sergeant</strong> (Ammunition Management)</li>
+    <li>Discharged as Army Sergeant (Ammunition Management)</li>
   </ul>
 </div>
 
----
-
 ## Publications
 
-Publication Type — C: Conference | J: Journal | P: Preprint  
-(* equal contribution, † co-corresponding authors)
+<p class="pub-note">Publication Type — C: Conference | J: Journal | P: Preprint<br>(* equal contribution, † co-corresponding authors)</p>
+
+<div class="pub-item">
+  <img class="pub-thumb" src="/assets/papers/qcp.png" alt="QCP">
+  <div class="pub-body">
+    <div class="pub-title">[P2] Learning Quality-Controllable Robot Policies with Iterative Hindsight Relabeling</div>
+    <div class="pub-authors">Sinjae Kang, <strong>Dong Kyu Shin</strong>, Jaehong Kim, Kamin Lee, Hyoeun Kim, Kaixin Wang, Li Zhao, Seonghyeon Ye†, Kimin Lee†</div>
+    <div class="pub-venue">Under review / ArXiv Preprint, 2026</div>
+    <div class="pub-links">
+      <a href="https://sinnnj.github.io/qcp/">project page</a>
+      /
+      <a href="https://arxiv.org/abs/2610.37393">arXiv</a>
+    </div>
+    <p class="pub-teaser">A quality-controllable robot policy that steers execution attributes such as speed and smoothness at inference time, then expands that range beyond demonstrations through iterative hindsight relabeling.</p>
+  </div>
+</div>
 
 <div class="pub-item">
   <img class="pub-thumb" src="/assets/papers/edith.png" alt="EDITH">
@@ -177,8 +182,6 @@ Publication Type — C: Conference | J: Journal | P: Preprint
   </div>
 </div>
 
----
-
 ## Selected Projects
 
 <div class="pub-item">
@@ -192,29 +195,33 @@ Publication Type — C: Conference | J: Journal | P: Preprint
   </div>
 </div>
 
----
-
 ## Technical Skills
 
-**Programming Languages:** Python (PyTorch, OpenGL), MATLAB, C++, ROS2  
+**Programming:** Python (PyTorch, OpenGL), MATLAB, C++, ROS2  
 **Languages:** Korean (Native), English (Intermediate), Mandarin Chinese (Conversational), French (Beginner)
-
----
 
 ## Awards and Honors
 
-- **Science and Engineering Scholarship**  
-  *Ministry of Science and ICT* (Sept 2023 – Feb 2025)
-- **2nd Place**, RC-Car Autonomous Racing Challenge  
-  (Dec 2024)
-- **Bronze Medal**, Mechatronics Project Contest  
-  *Hyundai Infracore* (Jun 2023)
-- **Academic Excellence Scholarship**  
-  (Mar 2023 – Aug 2023)
-- **Academic Excellence Scholarship**  
-  (Mar 2019 – Feb 2021)
-
----
+<div class="award-item">
+  <span>Science and Engineering Scholarship, <em>Ministry of Science and ICT</em></span>
+  <span class="experience-date">Sept 2023 – Feb 2025</span>
+</div>
+<div class="award-item">
+  <span>2nd Place, RC-Car Autonomous Racing Challenge</span>
+  <span class="experience-date">Dec 2024</span>
+</div>
+<div class="award-item">
+  <span>Bronze Medal, Mechatronics Project Contest, <em>Hyundai Infracore</em></span>
+  <span class="experience-date">Jun 2023</span>
+</div>
+<div class="award-item">
+  <span>Academic Excellence Scholarship</span>
+  <span class="experience-date">Mar 2023 – Aug 2023</span>
+</div>
+<div class="award-item">
+  <span>Academic Excellence Scholarship</span>
+  <span class="experience-date">Mar 2019 – Feb 2021</span>
+</div>
 
 ## Hobbies
 
@@ -229,4 +236,4 @@ Publication Type — C: Conference | J: Journal | P: Preprint
   </a>
 </div>
 
-<p class="footer-note"><em>Last updated: September 2026</em></p>
+<p class="footer-note"><em>Last updated: November 2026</em></p>
